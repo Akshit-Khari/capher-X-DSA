@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 public class Great{
     public static int FindMax(int[] arr, int n){
@@ -25,4 +26,9 @@ public class Great{
 
         System.out.println("Greater element is : " + max);
     }
+=======
+import java.util.Scanner;
+public class Great{
+    
+>>>>>>> 10a4e975960455bef35dde218e479b0e388dd6a6
 }
